@@ -1,0 +1,1 @@
+drawCellInventory(self, oPlayerInventory.cellSideSize);

@@ -1,0 +1,3 @@
+if (isBusy) {
+    throwItemFromInventory(self);
+}
